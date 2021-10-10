@@ -1,4 +1,4 @@
-## Olá sou Isaque Medeiros, sou programador em Python Dev Full Stack!
+## Olá sou Isaque Medeiros, sou programador Dev Full Stack Python!
 <div align="center">
   <a href="https://github.com/IsaqueMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaqueMedeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

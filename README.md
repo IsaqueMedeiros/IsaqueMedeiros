@@ -1,4 +1,4 @@
-## Olá sou Isaque Medeiros, sou programador Dev Full Stack!
+## Olá sou Isaque Medeiros, programador Dev Full Stack!
 - No momento estou estudando Machine Learning.
 <div align="center">
   <a href="https://github.com/IsaqueMedeiros">

@@ -10,10 +10,9 @@ object **Isaque Medeiros** {
  val acknowledgements = "Pentest", ".NET", "SQL", "MongoDB", "NodeJS",
  
  val myVision = "Think in macro, not in technology"
- val languages = listOf("C#", "Javascript")
+ val certifications = listOf("SCYP", "SYWP", "SYH2")
  }
 ```
-
 ## **Languages && Tools:**  
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>

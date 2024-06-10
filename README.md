@@ -2,9 +2,7 @@
 
 ### Olá, meu nome é Isaque Medeiros!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=IsaqueMedeiros&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+<p>Trabalhando na Boutique Construtora<br/> Eu sou desenvolvedor C# - PHP Symfony</p>
 
 ## Social
 <a href="https://www.linkedin.com/in/isaque-m/"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
